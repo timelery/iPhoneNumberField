@@ -1,16 +1,15 @@
 {
-  "object": {
-    "pins": [
-      {
-        "package": "PhoneNumberKit",
-        "repositoryURL": "https://github.com/marmelroy/PhoneNumberKit",
-        "state": {
-          "branch": null,
-          "revision": "b2c695c9aedc70edd8494e3ed0902a0817e57e41",
-          "version": "3.5.3"
-        }
+  "originHash" : "bed172a1c63b0a387bc0bb5b1903f6e72d87efe7b4180a9201adf48d2cdef525",
+  "pins" : [
+    {
+      "identity" : "phonenumberkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/timelery/PhoneNumberKit",
+      "state" : {
+        "branch" : "master",
+        "revision" : "8bf52fd307ce9bce82b5ed41ba1ceefaf34f1ce7"
       }
-    ]
-  },
-  "version": 1
+    }
+  ],
+  "version" : 3
 }
